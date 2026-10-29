@@ -13,7 +13,7 @@
 
   ### About me
 
-  hey, I'm **Isaac Quarenta** — a developer focused on building clean, scalable, and modern applications.
+  hey, I'm **Isaac Quarenta** — CEO co-funder, of SofEdge Corporation, a developer  focused on building clean, scalable, and modern applications.
   I value structure, performance, and long-term maintainability.
 
   **Full-Stack Developer** <br>
